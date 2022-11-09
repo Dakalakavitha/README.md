@@ -30,3 +30,15 @@ System health monitoring is a set of activities undertaken to maintain a system 
 
 ##about page:
 ![image](https://user-images.githubusercontent.com/114652779/200804013-6873dc5b-71d0-441d-a69f-a5de23c2a6d8.png)
+
+### Gallery Page:
+![image](https://user-images.githubusercontent.com/114652779/200804326-4ad789cf-dbb1-47b0-8003-8b9e9c1d5187.png)
+
+##final page:
+![image](https://user-images.githubusercontent.com/114652779/200804735-73753bd7-64ec-46e1-a44d-af36d4cffbef.png)
+
+
+## Languages and Azure services used in my bot:-
+- HTML
+- QnA Maker
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/).
